@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963736832611",
+    "project_id": "guardian-4a662"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963736832611:android:1041c948b7cc22e4",
+        "android_client_info": {
+          "package_name": "com.apps.lore_f.googlesigntest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963736832611-v4f067kppk1c1si9grd9klg1mn2jkbnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxLHTqzzbDehj1achF6XXzZyzhmSAw_ug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
